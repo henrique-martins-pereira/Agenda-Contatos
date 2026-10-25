@@ -1,0 +1,19 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Banco de dados local da agenda
+Agenda.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos temporários e configurações de editores
+*.tmp
+.vscode/
+.idea/
